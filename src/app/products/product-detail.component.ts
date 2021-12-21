@@ -1,6 +1,7 @@
 import { Component, OnInit } from '@angular/core';
 import { ActivatedRoute, Router } from '@angular/router';
 import { IProduct } from './product';
+import { ProductService } from './product.service';
 
 @Component({
   templateUrl: './product-detail.component.html',
@@ -8,13 +9,16 @@ import { IProduct } from './product';
 })
 export class ProductDetailComponent implements OnInit {
 
-  private static readonly PAGE_TITLE = 'Product Details'
+  private static readonly PAGE_TITLE = 'Product Details';
 
   private _pageTitle: string;
 
-  private _product!: IProduct;
+  product: IProduct | undefined;
+  errorMessage!: string;
 
-  constructor(private route: ActivatedRoute, private router: Router) {
+  constructor(private route: ActivatedRoute, 
+              private router: Router,
+              private productService: ProductService) {
     this._pageTitle = ProductDetailComponent.PAGE_TITLE;
   }
 
@@ -22,13 +26,18 @@ export class ProductDetailComponent implements OnInit {
     return this._pageTitle;
   }
 
-  get product(): IProduct {
-    return this._product;
-  }
-
   ngOnInit(): void {
     const id = Number(this.route.snapshot.paramMap.get('id'));
-    this._pageTitle += `: ${id}`;
+    if (id) {
+      this.getProduct(id);
+    }
+  }
+
+  getProduct(id: number): void {
+    this.productService.getProduct(id).subscribe({
+      next: product => this.product = product,
+      error: err => this.errorMessage = err
+    });
   }
 
   onBack(): void {
