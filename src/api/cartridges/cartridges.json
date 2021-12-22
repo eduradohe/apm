@@ -1,0 +1,902 @@
+[
+	{
+		"id": "1",
+		"title": "Super Mario World",
+		"year": "1994",
+		"quantity": 1,
+		"console": {
+			"id": "2",
+			"name": "SNES",
+			"year": "1990",
+			"manufacturer": {
+				"id": "2",
+				"name": "Nintendo"
+			}
+		}
+	},
+	{
+		"id": "2",
+		"title": "Super Mario World 2",
+		"year": "1995",
+		"quantity": 1,
+		"console": {
+			"id": "2",
+			"name": "SNES",
+			"year": "1990",
+			"manufacturer": {
+				"id": "2",
+				"name": "Nintendo"
+			}
+		}
+	},
+	{
+		"id": "3",
+		"title": "Super Metroid",
+		"year": "1994",
+		"quantity": 1,
+		"console": {
+			"id": "2",
+			"name": "SNES",
+			"year": "1990",
+			"manufacturer": {
+				"id": "2",
+				"name": "Nintendo"
+			}
+		}
+	},
+	{
+		"id": "4",
+		"title": "Super Mario Kart",
+		"year": "1992",
+		"quantity": 1,
+		"console": {
+			"id": "2",
+			"name": "SNES",
+			"year": "1990",
+			"manufacturer": {
+				"id": "2",
+				"name": "Nintendo"
+			}
+		}
+	},
+	{
+		"id": "5",
+		"title": "The Legend of Zelda: A Link to the Past",
+		"year": "1991",
+		"quantity": 1,
+		"console": {
+			"id": "2",
+			"name": "SNES",
+			"year": "1990",
+			"manufacturer": {
+				"id": "2",
+				"name": "Nintendo"
+			}
+		}
+	},
+	{
+		"id": "6",
+		"title": "Castlevania: Dracula X",
+		"year": "1995",
+		"quantity": 1,
+		"console": {
+			"id": "2",
+			"name": "SNES",
+			"year": "1990",
+			"manufacturer": {
+				"id": "2",
+				"name": "Nintendo"
+			}
+		}
+	},
+	{
+		"id": "7",
+		"title": "Final Fantasy II",
+		"year": "1991",
+		"quantity": 1,
+		"console": {
+			"id": "2",
+			"name": "SNES",
+			"year": "1990",
+			"manufacturer": {
+				"id": "2",
+				"name": "Nintendo"
+			}
+		}
+	},
+	{
+		"id": "8",
+		"title": "Final Fantasy III",
+		"year": "1994",
+		"quantity": 1,
+		"console": {
+			"id": "2",
+			"name": "SNES",
+			"year": "1990",
+			"manufacturer": {
+				"id": "2",
+				"name": "Nintendo"
+			}
+		}
+	},
+	{
+		"id": "9",
+		"title": "Final Fantasy V",
+		"year": "1992",
+		"quantity": 1,
+		"console": {
+			"id": "2",
+			"name": "SNES",
+			"year": "1990",
+			"manufacturer": {
+				"id": "2",
+				"name": "Nintendo"
+			}
+		}
+	},
+	{
+		"id": "10",
+		"title": "Fire Emblem: Monshou no Nazo",
+		"year": "1994",
+		"quantity": 1,
+		"console": {
+			"id": "2",
+			"name": "SNES",
+			"year": "1990",
+			"manufacturer": {
+				"id": "2",
+				"name": "Nintendo"
+			}
+		}
+	},
+	{
+		"id": "11",
+		"title": "Fire Emblem: Sensei no Keifu",
+		"year": "1996",
+		"quantity": 1,
+		"console": {
+			"id": "2",
+			"name": "SNES",
+			"year": "1990",
+			"manufacturer": {
+				"id": "2",
+				"name": "Nintendo"
+			}
+		}
+	},
+	{
+		"id": "12",
+		"title": "Fire Emblem: Thracia 776",
+		"year": "1999",
+		"quantity": 1,
+		"console": {
+			"id": "2",
+			"name": "SNES",
+			"year": "1990",
+			"manufacturer": {
+				"id": "2",
+				"name": "Nintendo"
+			}
+		}
+	},
+	{
+		"id": "13",
+		"title": "Teenage Mutant Ninja Turtles IV: Turtles in Time",
+		"year": "1992",
+		"quantity": 1,
+		"console": {
+			"id": "2",
+			"name": "SNES",
+			"year": "1990",
+			"manufacturer": {
+				"id": "2",
+				"name": "Nintendo"
+			}
+		}
+	},
+	{
+		"id": "14",
+		"title": "Teenage Mutant Ninja Turtles IV: Turtles in Time",
+		"year": "1992",
+		"quantity": 1,
+		"console": {
+			"id": "2",
+			"name": "SNES",
+			"year": "1990",
+			"manufacturer": {
+				"id": "2",
+				"name": "Nintendo"
+			}
+		}
+	},
+	{
+		"id": "15",
+		"title": "Contra: Hard Corps",
+		"year": "1994",
+		"quantity": 1,
+		"console": {
+			"id": "1",
+			"name": "Genesis",
+			"year": "1988",
+			"manufacturer": {
+				"id": "1",
+				"name": "Sega"
+			}
+		}
+	},
+	{
+		"id": "16",
+		"title": "Castle of Illusion Starring Mickey Mouse",
+		"year": "1990",
+		"quantity": 1,
+		"console": {
+			"id": "1",
+			"name": "Genesis",
+			"year": "1988",
+			"manufacturer": {
+				"id": "1",
+				"name": "Sega"
+			}
+		}
+	},
+	{
+		"id": "17",
+		"title": "The Lion King",
+		"year": "1994",
+		"quantity": 1,
+		"console": {
+			"id": "1",
+			"name": "Genesis",
+			"year": "1988",
+			"manufacturer": {
+				"id": "1",
+				"name": "Sega"
+			}
+		}
+	},
+	{
+		"id": "18",
+		"title": "The Lost Vikings",
+		"year": "1994",
+		"quantity": 1,
+		"console": {
+			"id": "1",
+			"name": "Genesis",
+			"year": "1988",
+			"manufacturer": {
+				"id": "1",
+				"name": "Sega"
+			}
+		}
+	},
+	{
+		"id": "19",
+		"title": "The Revenge of Shinobi",
+		"year": "1989",
+		"quantity": 1,
+		"console": {
+			"id": "1",
+			"name": "Genesis",
+			"year": "1988",
+			"manufacturer": {
+				"id": "1",
+				"name": "Sega"
+			}
+		}
+	},
+	{
+		"id": "20",
+		"title": "Dick Tracy",
+		"year": "1991",
+		"quantity": 1,
+		"console": {
+			"id": "1",
+			"name": "Genesis",
+			"year": "1988",
+			"manufacturer": {
+				"id": "1",
+				"name": "Sega"
+			}
+		}
+	},
+	{
+		"id": "21",
+		"title": "Earthworm Jim",
+		"year": "1994",
+		"quantity": 1,
+		"console": {
+			"id": "1",
+			"name": "Genesis",
+			"year": "1988",
+			"manufacturer": {
+				"id": "1",
+				"name": "Sega"
+			}
+		}
+	},
+	{
+		"id": "22",
+		"title": "Sonic the Hedgehog",
+		"year": "1991",
+		"quantity": 1,
+		"console": {
+			"id": "1",
+			"name": "Genesis",
+			"year": "1988",
+			"manufacturer": {
+				"id": "1",
+				"name": "Sega"
+			}
+		}
+	},
+	{
+		"id": "23",
+		"title": "Sonic the Hedgehog 2",
+		"year": "1992",
+		"quantity": 1,
+		"console": {
+			"id": "1",
+			"name": "Genesis",
+			"year": "1988",
+			"manufacturer": {
+				"id": "1",
+				"name": "Sega"
+			}
+		}
+	},
+	{
+		"id": "24",
+		"title": "Sonic the Hedgehog 3",
+		"year": "1994",
+		"quantity": 1,
+		"console": {
+			"id": "1",
+			"name": "Genesis",
+			"year": "1988",
+			"manufacturer": {
+				"id": "1",
+				"name": "Sega"
+			}
+		}
+	},
+	{
+		"id": "25",
+		"title": "Duke Nukem 3D",
+		"year": "1998",
+		"quantity": 1,
+		"console": {
+			"id": "1",
+			"name": "Genesis",
+			"year": "1988",
+			"manufacturer": {
+				"id": "1",
+				"name": "Sega"
+			}
+		}
+	},
+	{
+		"id": "26",
+		"title": "Mortal Kombat",
+		"year": "1993",
+		"quantity": 1,
+		"console": {
+			"id": "1",
+			"name": "Genesis",
+			"year": "1988",
+			"manufacturer": {
+				"id": "1",
+				"name": "Sega"
+			}
+		}
+	},
+	{
+		"id": "27",
+		"title": "Mortal Kombat II",
+		"year": "1994",
+		"quantity": 1,
+		"console": {
+			"id": "1",
+			"name": "Genesis",
+			"year": "1988",
+			"manufacturer": {
+				"id": "1",
+				"name": "Sega"
+			}
+		}
+	},
+	{
+		"id": "28",
+		"title": "Mortal Kombat 3",
+		"year": "1995",
+		"quantity": 1,
+		"console": {
+			"id": "1",
+			"name": "Genesis",
+			"year": "1988",
+			"manufacturer": {
+				"id": "1",
+				"name": "Sega"
+			}
+		}
+	},
+	{
+		"id": "29",
+		"title": "Ultimate Mortal Kombat 3",
+		"year": "1996",
+		"quantity": 1,
+		"console": {
+			"id": "1",
+			"name": "Genesis",
+			"year": "1988",
+			"manufacturer": {
+				"id": "1",
+				"name": "Sega"
+			}
+		}
+	},
+	{
+		"id": "30",
+		"title": "Teenage Mutant Ninja Turtles: The Hyperstone Heist",
+		"year": "1992",
+		"quantity": 1,
+		"console": {
+			"id": "1",
+			"name": "Genesis",
+			"year": "1988",
+			"manufacturer": {
+				"id": "1",
+				"name": "Sega"
+			}
+		}
+	},
+	{
+		"id": "31",
+		"title": "Pokémon Snap",
+		"year": "1999",
+		"quantity": 1,
+		"console": {
+			"id": "3",
+			"name": "Nintendo 64",
+			"year": "1996",
+			"manufacturer": {
+				"id": "2",
+				"name": "Nintendo"
+			}
+		}
+	},
+	{
+		"id": "32",
+		"title": "Pokémon Stadium",
+		"year": "2000",
+		"quantity": 1,
+		"console": {
+			"id": "3",
+			"name": "Nintendo 64",
+			"year": "1996",
+			"manufacturer": {
+				"id": "2",
+				"name": "Nintendo"
+			}
+		}
+	},
+	{
+		"id": "33",
+		"title": "Pokémon Stadium 2",
+		"year": "2001",
+		"quantity": 1,
+		"console": {
+			"id": "3",
+			"name": "Nintendo 64",
+			"year": "1996",
+			"manufacturer": {
+				"id": "2",
+				"name": "Nintendo"
+			}
+		}
+	},
+	{
+		"id": "34",
+		"title": "Star Fox 64",
+		"year": "1997",
+		"quantity": 1,
+		"console": {
+			"id": "3",
+			"name": "Nintendo 64",
+			"year": "1996",
+			"manufacturer": {
+				"id": "2",
+				"name": "Nintendo"
+			}
+		}
+	},
+	{
+		"id": "35",
+		"title": "Star Wars Episode I: Battle for Naboo",
+		"year": "2000",
+		"quantity": 1,
+		"console": {
+			"id": "3",
+			"name": "Nintendo 64",
+			"year": "1996",
+			"manufacturer": {
+				"id": "2",
+				"name": "Nintendo"
+			}
+		}
+	},
+	{
+		"id": "36",
+		"title": "Star Wars Episode I: Racer",
+		"year": "1999",
+		"quantity": 1,
+		"console": {
+			"id": "3",
+			"name": "Nintendo 64",
+			"year": "1996",
+			"manufacturer": {
+				"id": "2",
+				"name": "Nintendo"
+			}
+		}
+	},
+	{
+		"id": "37",
+		"title": "Super Mario 64",
+		"year": "1996",
+		"quantity": 1,
+		"console": {
+			"id": "3",
+			"name": "Nintendo 64",
+			"year": "1996",
+			"manufacturer": {
+				"id": "2",
+				"name": "Nintendo"
+			}
+		}
+	},
+	{
+		"id": "38",
+		"title": "Mario Kart 64",
+		"year": "1996",
+		"quantity": 1,
+		"console": {
+			"id": "3",
+			"name": "Nintendo 64",
+			"year": "1996",
+			"manufacturer": {
+				"id": "2",
+				"name": "Nintendo"
+			}
+		}
+	},
+	{
+		"id": "39",
+		"title": "Banjo-Kazooie",
+		"year": "1998",
+		"quantity": 1,
+		"console": {
+			"id": "3",
+			"name": "Nintendo 64",
+			"year": "1996",
+			"manufacturer": {
+				"id": "2",
+				"name": "Nintendo"
+			}
+		}
+	},
+	{
+		"id": "40",
+		"title": "The Legend of Zelda: Ocarina of Time",
+		"year": "1998",
+		"quantity": 1,
+		"console": {
+			"id": "3",
+			"name": "Nintendo 64",
+			"year": "1996",
+			"manufacturer": {
+				"id": "2",
+				"name": "Nintendo"
+			}
+		}
+	},
+	{
+		"id": "41",
+		"title": "The Legend of Zelda: Majora's Mask",
+		"year": "2000",
+		"quantity": 1,
+		"console": {
+			"id": "3",
+			"name": "Nintendo 64",
+			"year": "1996",
+			"manufacturer": {
+				"id": "2",
+				"name": "Nintendo"
+			}
+		}
+	},
+	{
+		"id": "42",
+		"title": "SNK vs. Capcom: SVC Chaos",
+		"year": "2003",
+		"quantity": 1,
+		"console": {
+			"id": "4",
+			"name": "Neo Geo",
+			"year": "1990",
+			"manufacturer": {
+				"id": "3",
+				"name": "SNK"
+			}
+		}
+	},
+	{
+		"id": "43",
+		"title": "The King of Fighters '94",
+		"year": "1994",
+		"quantity": 1,
+		"console": {
+			"id": "4",
+			"name": "Neo Geo",
+			"year": "1990",
+			"manufacturer": {
+				"id": "3",
+				"name": "SNK"
+			}
+		}
+	},
+	{
+		"id": "44",
+		"title": "The King of Fighters '95",
+		"year": "1995",
+		"quantity": 1,
+		"console": {
+			"id": "4",
+			"name": "Neo Geo",
+			"year": "1990",
+			"manufacturer": {
+				"id": "3",
+				"name": "SNK"
+			}
+		}
+	},
+	{
+		"id": "45",
+		"title": "The King of Fighters '96",
+		"year": "1996",
+		"quantity": 1,
+		"console": {
+			"id": "4",
+			"name": "Neo Geo",
+			"year": "1990",
+			"manufacturer": {
+				"id": "3",
+				"name": "SNK"
+			}
+		}
+	},
+	{
+		"id": "46",
+		"title": "The King of Fighters '97",
+		"year": "1997",
+		"quantity": 1,
+		"console": {
+			"id": "4",
+			"name": "Neo Geo",
+			"year": "1990",
+			"manufacturer": {
+				"id": "3",
+				"name": "SNK"
+			}
+		}
+	},
+	{
+		"id": "47",
+		"title": "The King of Fighters '98",
+		"year": "1998",
+		"quantity": 1,
+		"console": {
+			"id": "4",
+			"name": "Neo Geo",
+			"year": "1990",
+			"manufacturer": {
+				"id": "3",
+				"name": "SNK"
+			}
+		}
+	},
+	{
+		"id": "48",
+		"title": "The King of Fighters '99",
+		"year": "1999",
+		"quantity": 1,
+		"console": {
+			"id": "4",
+			"name": "Neo Geo",
+			"year": "1990",
+			"manufacturer": {
+				"id": "3",
+				"name": "SNK"
+			}
+		}
+	},
+	{
+		"id": "49",
+		"title": "The King of Fighters 2000",
+		"year": "2000",
+		"quantity": 1,
+		"console": {
+			"id": "4",
+			"name": "Neo Geo",
+			"year": "1990",
+			"manufacturer": {
+				"id": "3",
+				"name": "SNK"
+			}
+		}
+	},
+	{
+		"id": "50",
+		"title": "The King of Fighters 2001",
+		"year": "2001",
+		"quantity": 1,
+		"console": {
+			"id": "4",
+			"name": "Neo Geo",
+			"year": "1990",
+			"manufacturer": {
+				"id": "3",
+				"name": "SNK"
+			}
+		}
+	},
+	{
+		"id": "51",
+		"title": "The King of Fighters 2002",
+		"year": "2002",
+		"quantity": 1,
+		"console": {
+			"id": "4",
+			"name": "Neo Geo",
+			"year": "1990",
+			"manufacturer": {
+				"id": "3",
+				"name": "SNK"
+			}
+		}
+	},
+	{
+		"id": "52",
+		"title": "The King of Fighters 2003",
+		"year": "2003",
+		"quantity": 1,
+		"console": {
+			"id": "4",
+			"name": "Neo Geo",
+			"year": "1990",
+			"manufacturer": {
+				"id": "3",
+				"name": "SNK"
+			}
+		}
+	},
+	{
+		"id": "53",
+		"title": "Fatal Fury: King of Fighters",
+		"year": "1991",
+		"quantity": 1,
+		"console": {
+			"id": "4",
+			"name": "Neo Geo",
+			"year": "1990",
+			"manufacturer": {
+				"id": "3",
+				"name": "SNK"
+			}
+		}
+	},
+	{
+		"id": "54",
+		"title": "Fatal Fury 2",
+		"year": "1995",
+		"quantity": 1,
+		"console": {
+			"id": "4",
+			"name": "Neo Geo",
+			"year": "1990",
+			"manufacturer": {
+				"id": "3",
+				"name": "SNK"
+			}
+		}
+	},
+	{
+		"id": "55",
+		"title": "Metal Slug",
+		"year": "1996",
+		"quantity": 1,
+		"console": {
+			"id": "4",
+			"name": "Neo Geo",
+			"year": "1990",
+			"manufacturer": {
+				"id": "3",
+				"name": "SNK"
+			}
+		}
+	},
+	{
+		"id": "56",
+		"title": "Metal Slug 2",
+		"year": "1998",
+		"quantity": 1,
+		"console": {
+			"id": "4",
+			"name": "Neo Geo",
+			"year": "1990",
+			"manufacturer": {
+				"id": "3",
+				"name": "SNK"
+			}
+		}
+	},
+	{
+		"id": "57",
+		"title": "Metal Slug 3",
+		"year": "2000",
+		"quantity": 1,
+		"console": {
+			"id": "4",
+			"name": "Neo Geo",
+			"year": "1990",
+			"manufacturer": {
+				"id": "3",
+				"name": "SNK"
+			}
+		}
+	},
+	{
+		"id": "58",
+		"title": "Metal Slug 4",
+		"year": "2002",
+		"quantity": 1,
+		"console": {
+			"id": "4",
+			"name": "Neo Geo",
+			"year": "1990",
+			"manufacturer": {
+				"id": "3",
+				"name": "SNK"
+			}
+		}
+	},
+	{
+		"id": "59",
+		"title": "Metal Slug 5",
+		"year": "2003",
+		"quantity": 1,
+		"console": {
+			"id": "4",
+			"name": "Neo Geo",
+			"year": "1990",
+			"manufacturer": {
+				"id": "3",
+				"name": "SNK"
+			}
+		}
+	},
+	{
+		"id": "60",
+		"title": "Metal Slug X",
+		"year": "1999",
+		"quantity": 1,
+		"console": {
+			"id": "4",
+			"name": "Neo Geo",
+			"year": "1990",
+			"manufacturer": {
+				"id": "3",
+				"name": "SNK"
+			}
+		}
+	}
+]
